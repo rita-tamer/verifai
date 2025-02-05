@@ -1,0 +1,48 @@
+File: ./jpeg_files\Cloud.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 957 | Length: 29
+  Marker: b'\xff\xc4' | Offset: 988 | Length: 72
+  Marker: b'\xff\xc4' | Offset: 1062 | Length: 26
+  Marker: b'\xff\xc4' | Offset: 1090 | Length: 46
+  Marker: b'\xff\xda' | Offset: 1138 | Length: 12
+------------------------------------------------------------
+File: ./jpeg_files\Geminii.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 957 | Length: 29
+  Marker: b'\xff\xc4' | Offset: 988 | Length: 70
+  Marker: b'\xff\xc4' | Offset: 1060 | Length: 28
+  Marker: b'\xff\xc4' | Offset: 1090 | Length: 56
+  Marker: b'\xff\xda' | Offset: 1148 | Length: 12
+------------------------------------------------------------
+
+Common Chunks Across Files:
+Common Chunks between ./jpeg_files\Cloud.jpg and ./jpeg_files\Geminii.jpg:
+  Marker: b'\xff\xe0' | Offset in ./jpeg_files\Cloud.jpg: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset in ./jpeg_files\Cloud.jpg: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset in ./jpeg_files\Cloud.jpg: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset in ./jpeg_files\Cloud.jpg: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset in ./jpeg_files\Cloud.jpg: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset in ./jpeg_files\Cloud.jpg: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset in ./jpeg_files\Cloud.jpg: 957 | Length: 29
+------------------------------------------------------------
+Common Chunks between ./jpeg_files\Geminii.jpg and ./jpeg_files\Cloud.jpg:
+  Marker: b'\xff\xe0' | Offset in ./jpeg_files\Geminii.jpg: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset in ./jpeg_files\Geminii.jpg: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset in ./jpeg_files\Geminii.jpg: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset in ./jpeg_files\Geminii.jpg: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset in ./jpeg_files\Geminii.jpg: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset in ./jpeg_files\Geminii.jpg: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset in ./jpeg_files\Geminii.jpg: 957 | Length: 29
+------------------------------------------------------------
