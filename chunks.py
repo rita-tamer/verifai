@@ -97,7 +97,7 @@ def parse_chunks(file_path):
         return parse_webp_chunks(file_path)
     return f"Unsupported file format: {file_path}"
 
-def compare_files(file_paths, output_file="output7.txt"):
+def compare_files(file_paths, output_file="output8.txt"):
     """Compares image files by analyzing their chunks and exports the results."""
     results = []
     all_chunks = {}

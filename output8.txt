@@ -1,0 +1,228 @@
+File: .\image_files\GeminiImages\apple_image.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xdb' | Offset: 20 | Length: 67
+  Marker: b'\xff\xdb' | Offset: 89 | Length: 67
+  Marker: b'\xff\xc0' | Offset: 158 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 177 | Length: 31
+  Marker: b'\xff\xc4' | Offset: 210 | Length: 181
+  Marker: b'\xff\xc4' | Offset: 393 | Length: 31
+  Marker: b'\xff\xc4' | Offset: 426 | Length: 181
+  Marker: b'\xff\xda' | Offset: 609 | Length: 12
+------------------------------------------------------------
+File: .\image_files\GeminiImages\cloud_image.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xdb' | Offset: 20 | Length: 67
+  Marker: b'\xff\xdb' | Offset: 89 | Length: 67
+  Marker: b'\xff\xc0' | Offset: 158 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 177 | Length: 31
+  Marker: b'\xff\xc4' | Offset: 210 | Length: 181
+  Marker: b'\xff\xc4' | Offset: 393 | Length: 31
+  Marker: b'\xff\xc4' | Offset: 426 | Length: 181
+  Marker: b'\xff\xda' | Offset: 609 | Length: 12
+------------------------------------------------------------
+File: .\image_files\GeminiImages\FruitsGemini.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 957 | Length: 30
+  Marker: b'\xff\xc4' | Offset: 989 | Length: 94
+  Marker: b'\xff\xc4' | Offset: 1085 | Length: 28
+  Marker: b'\xff\xc4' | Offset: 1115 | Length: 63
+  Marker: b'\xff\xda' | Offset: 1180 | Length: 12
+------------------------------------------------------------
+File: .\image_files\GeminiImages\FruitsGemini2.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 957 | Length: 29
+  Marker: b'\xff\xc4' | Offset: 988 | Length: 81
+  Marker: b'\xff\xc4' | Offset: 1071 | Length: 28
+  Marker: b'\xff\xc4' | Offset: 1101 | Length: 62
+  Marker: b'\xff\xda' | Offset: 1165 | Length: 12
+------------------------------------------------------------
+File: .\image_files\GeminiImages\Imagen3Gemini.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xe1' | Offset: 20 | Length: 42
+  Marker: b'\xff\xe1' | Offset: 64 | Length: 656
+  Marker: b'\xff\xed' | Offset: 722 | Length: 80
+  Marker: b'\xff\xdb' | Offset: 804 | Length: 132
+  Marker: b'\xff\xc0' | Offset: 938 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 957 | Length: 29
+  Marker: b'\xff\xc4' | Offset: 988 | Length: 86
+  Marker: b'\xff\xc4' | Offset: 1076 | Length: 28
+  Marker: b'\xff\xc4' | Offset: 1106 | Length: 59
+  Marker: b'\xff\xda' | Offset: 1167 | Length: 12
+------------------------------------------------------------
+
+Common Chunks Across Files:
+Common Chunks between .\image_files\GeminiImages\apple_image.jpg and .\image_files\GeminiImages\cloud_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\apple_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xdb' | Offset in .\image_files\GeminiImages\apple_image.jpg: 20 | Length: 67
+  Chunk Data (Hex): 00080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720222c231c1c2837292c30313434341f27393d38323c2e333432
+  Marker: b'\xff\xdb' | Offset in .\image_files\GeminiImages\apple_image.jpg: 89 | Length: 67
+  Chunk Data (Hex): 010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\apple_image.jpg: 158 | Length: 17
+  Chunk Data (Hex): 080400040003012200021101031101
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\apple_image.jpg: 177 | Length: 31
+  Chunk Data (Hex): 0000010501010101010100000000000000000102030405060708090a0b
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\apple_image.jpg: 210 | Length: 181
+  Chunk Data (Hex): 100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9fa
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\apple_image.jpg: 393 | Length: 31
+  Chunk Data (Hex): 0100030101010101010101010000000000000102030405060708090a0b
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\apple_image.jpg: 426 | Length: 181
+  Chunk Data (Hex): 1100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9fa
+  Marker: b'\xff\xda' | Offset in .\image_files\GeminiImages\apple_image.jpg: 609 | Length: 12
+  Chunk Data (Hex): 03010002110311003f00
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\apple_image.jpg and .\image_files\GeminiImages\FruitsGemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\apple_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\apple_image.jpg and .\image_files\GeminiImages\FruitsGemini2.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\apple_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\apple_image.jpg and .\image_files\GeminiImages\Imagen3Gemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\apple_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\cloud_image.jpg and .\image_files\GeminiImages\apple_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xdb' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 20 | Length: 67
+  Chunk Data (Hex): 00080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720222c231c1c2837292c30313434341f27393d38323c2e333432
+  Marker: b'\xff\xdb' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 89 | Length: 67
+  Chunk Data (Hex): 010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 158 | Length: 17
+  Chunk Data (Hex): 080400040003012200021101031101
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 177 | Length: 31
+  Chunk Data (Hex): 0000010501010101010100000000000000000102030405060708090a0b
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 210 | Length: 181
+  Chunk Data (Hex): 100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9fa
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 393 | Length: 31
+  Chunk Data (Hex): 0100030101010101010101010000000000000102030405060708090a0b
+  Marker: b'\xff\xc4' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 426 | Length: 181
+  Chunk Data (Hex): 1100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9fa
+  Marker: b'\xff\xda' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 609 | Length: 12
+  Chunk Data (Hex): 03010002110311003f00
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\cloud_image.jpg and .\image_files\GeminiImages\FruitsGemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\cloud_image.jpg and .\image_files\GeminiImages\FruitsGemini2.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\cloud_image.jpg and .\image_files\GeminiImages\Imagen3Gemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\cloud_image.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini.jpg and .\image_files\GeminiImages\apple_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini.jpg and .\image_files\GeminiImages\cloud_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini.jpg and .\image_files\GeminiImages\FruitsGemini2.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 20 | Length: 42
+  Chunk Data (Hex): 45786966000049492a0008000000010031010200070000001a000000000000005069636173610000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 64 | Length: 656
+  Chunk Data (Hex): 687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+  Marker: b'\xff\xed' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 722 | Length: 80
+  Chunk Data (Hex): 50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 938 | Length: 17
+  Chunk Data (Hex): 080800080003012200021101031101
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini.jpg and .\image_files\GeminiImages\Imagen3Gemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 20 | Length: 42
+  Chunk Data (Hex): 45786966000049492a0008000000010031010200070000001a000000000000005069636173610000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 64 | Length: 656
+  Chunk Data (Hex): 687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+  Marker: b'\xff\xed' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 722 | Length: 80
+  Chunk Data (Hex): 50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\FruitsGemini.jpg: 938 | Length: 17
+  Chunk Data (Hex): 080800080003012200021101031101
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini2.jpg and .\image_files\GeminiImages\apple_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini2.jpg and .\image_files\GeminiImages\cloud_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini2.jpg and .\image_files\GeminiImages\FruitsGemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 20 | Length: 42
+  Chunk Data (Hex): 45786966000049492a0008000000010031010200070000001a000000000000005069636173610000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 64 | Length: 656
+  Chunk Data (Hex): 687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+  Marker: b'\xff\xed' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 722 | Length: 80
+  Chunk Data (Hex): 50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 938 | Length: 17
+  Chunk Data (Hex): 080800080003012200021101031101
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\FruitsGemini2.jpg and .\image_files\GeminiImages\Imagen3Gemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 20 | Length: 42
+  Chunk Data (Hex): 45786966000049492a0008000000010031010200070000001a000000000000005069636173610000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 64 | Length: 656
+  Chunk Data (Hex): 687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+  Marker: b'\xff\xed' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 722 | Length: 80
+  Chunk Data (Hex): 50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\FruitsGemini2.jpg: 938 | Length: 17
+  Chunk Data (Hex): 080800080003012200021101031101
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\Imagen3Gemini.jpg and .\image_files\GeminiImages\apple_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\Imagen3Gemini.jpg and .\image_files\GeminiImages\cloud_image.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\Imagen3Gemini.jpg and .\image_files\GeminiImages\FruitsGemini.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 20 | Length: 42
+  Chunk Data (Hex): 45786966000049492a0008000000010031010200070000001a000000000000005069636173610000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 64 | Length: 656
+  Chunk Data (Hex): 687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+  Marker: b'\xff\xed' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 722 | Length: 80
+  Chunk Data (Hex): 50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 938 | Length: 17
+  Chunk Data (Hex): 080800080003012200021101031101
+------------------------------------------------------------
+Common Chunks between .\image_files\GeminiImages\Imagen3Gemini.jpg and .\image_files\GeminiImages\FruitsGemini2.jpg:
+  Marker: b'\xff\xe0' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 2 | Length: 16
+  Chunk Data (Hex): 4a46494600010100000100010000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 20 | Length: 42
+  Chunk Data (Hex): 45786966000049492a0008000000010031010200070000001a000000000000005069636173610000
+  Marker: b'\xff\xe1' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 64 | Length: 656
+  Chunk Data (Hex): 687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+  Marker: b'\xff\xed' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 722 | Length: 80
+  Chunk Data (Hex): 50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6
+  Marker: b'\xff\xc0' | Offset in .\image_files\GeminiImages\Imagen3Gemini.jpg: 938 | Length: 17
+  Chunk Data (Hex): 080800080003012200021101031101
+------------------------------------------------------------
