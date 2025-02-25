@@ -1,0 +1,30 @@
+File: .\image_files\DallEImages\Banana.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 66970
+  Marker: b'C2PA' | Offset: 66990 | Length: 51499
+------------------------------------------------------------
+File: .\image_files\DallEImages\FruitsDallE2.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 371588
+  Marker: b'C2PA' | Offset: 371608 | Length: 135895
+------------------------------------------------------------
+File: .\image_files\DallEImages\FruitsDallE3.jpg
+Chunks:
+  Marker: b'\xff\xe0' | Offset: 2 | Length: 16
+  Marker: b'\xff\xdb' | Offset: 20 | Length: 67
+  Marker: b'\xff\xdb' | Offset: 89 | Length: 67
+  Marker: b'\xff\xc0' | Offset: 158 | Length: 17
+  Marker: b'\xff\xc4' | Offset: 177 | Length: 31
+  Marker: b'\xff\xc4' | Offset: 210 | Length: 181
+  Marker: b'\xff\xc4' | Offset: 393 | Length: 31
+  Marker: b'\xff\xc4' | Offset: 426 | Length: 181
+  Marker: b'\xff\xda' | Offset: 609 | Length: 12
+------------------------------------------------------------
+File: .\image_files\DallEImages\Orange.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 160170
+  Marker: b'C2PA' | Offset: 160190 | Length: 72501
+------------------------------------------------------------
+
+Common Chunks Across Files:
+No common chunks found.

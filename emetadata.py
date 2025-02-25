@@ -6,6 +6,6 @@ def get_exif_data(file_path):
     return result.stdout
 
 # Example usage
-image_path = "banan.webp"
+image_path = "FruitsGemini.jpg"
 metadata = get_exif_data(image_path)
 print(metadata)

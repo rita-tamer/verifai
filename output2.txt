@@ -1,0 +1,13 @@
+File: .\image_files\DallEImages\Banana.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 66970
+  Marker: b'C2PA' | Offset: 66990 | Length: 51499
+------------------------------------------------------------
+File: .\image_files\DallEImages\Orange.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 160170
+  Marker: b'C2PA' | Offset: 160190 | Length: 72501
+------------------------------------------------------------
+
+Common Chunks Across Files:
+No common chunks found.

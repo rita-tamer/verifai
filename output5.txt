@@ -1,0 +1,18 @@
+File: .\image_files\DallEOTG\FruitsDallE1.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 239368
+  Marker: b'C2PA' | Offset: 239388 | Length: 115315
+------------------------------------------------------------
+File: .\image_files\DallEOTG\FruitsDallE2.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 371588
+  Marker: b'C2PA' | Offset: 371608 | Length: 135895
+------------------------------------------------------------
+File: .\image_files\DallEOTG\FruitsDallE3.webp
+Chunks:
+  Marker: b'VP8 ' | Offset: 12 | Length: 345030
+  Marker: b'C2PA' | Offset: 345050 | Length: 123646
+------------------------------------------------------------
+
+Common Chunks Across Files:
+No common chunks found.
