@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="model_signatures.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2646"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="signatures" custom_title="0" dock_id="1" table="4,10:mainsignatures"/><dock_state state="000000ff00000000fd0000000100000002000004f40000026ffc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000004f40000011d00ffffff000002570000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="formats" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="63"/><column index="2" value="83"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="models" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="60"/><column index="2" value="124"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="signatures" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="78"/><column index="2" value="62"/><column index="3" value="65"/><column index="4" value="80"/><column index="5" value="879"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="62"/><column index="2" value="29"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">-- OpenAI DallE (JPEG Signatures)
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'DallE JPEG Signature 1', '03010002110311003f00');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'DallE JPEG Signature 2', '1100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9fa
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'DallE JPEG Signature 3', '0100030101010101010101010000000000000102030405060708090a0b
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'DallE JPEG Signature 4', '100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9fa
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'DallE JPEG Signature 5', '0000010501010101010100000000000000000102030405060708090a0b');
+
+-- OpenAI DallE (WEBP Signatures)
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='WEBP'),
+        'DallE WEBP Signature 1', '03010002110311003f00');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='WEBP'),
+        'DallE WEBP Signature 2', '1100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9fa
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='WEBP'),
+        'DallE WEBP Signature 3', '0100030101010101010101010000000000000102030405060708090a0b
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='WEBP'),
+        'DallE WEBP Signature 4', '100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9fa
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='OpenAI DallE'),
+        (SELECT format_id FROM formats WHERE format_name='WEBP'),
+        'DallE WEBP Signature 5', '0000010501010101010100000000000000000102030405060708090a0b');
+
+-- Gemini Imagen 3 (JPEG Signatures)
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='Gemini Imagen 3'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'Gemini JPEG Signature 1', '45786966000049492a0008000000010031010200070000001a000000000000005069636173610000');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='Gemini Imagen 3'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'Gemini JPEG Signature 2', '687474703a2f2f6e732e61646f62652e636f6d2f7861702f312e302f003c3f787061636b657420626567696e3d22efbbbf222069643d2257354d304d7043656869487a7265537a4e54637a6b633964223f3e203c783a786d706d65746120786d6c6e733a783d2261646f62653a6e733a6d6574612f2220783a786d70746b3d22584d5020436f726520352e352e30223e203c7264663a52444620786d6c6e733a7264663d22687474703a2f2f7777772e77332e6f72672f313939392f30322f32322d7264662d73796e7461782d6e7323223e203c7264663a4465736372697074696f6e207264663a61626f75743d222220786d6c6e733a4970746334786d704578743d22687474703a2f2f697074632e6f72672f7374642f4970746334786d704578742f323030382d30322d32392f2220786d6c6e733a70686f746f73686f703d22687474703a2f2f6e732e61646f62652e636f6d2f70686f746f73686f702f312e302f22204970746334786d704578743a4469676974616c536f7572636546696c65547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d6564696122204970746334786d704578743a4469676974616c536f75726365547970653d22687474703a2f2f63762e697074632e6f72672f6e657773636f6465732f6469676974616c736f75726365747970652f747261696e6564416c676f726974686d69634d65646961222070686f746f73686f703a4372656469743d224d616465207769746820476f6f676c65204149222f3e203c2f7264663a5244463e203c2f783a786d706d6574613e2020203c3f787061636b657420656e643d2277223f3e
+');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='Gemini Imagen 3'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'Gemini JPEG Signature 3', '50686f746f73686f7020332e30003842494d04040000000000181c026e00134d616465207769746820476f6f676c652041493842494d0425000000000010c8b38965b44537a918a7e75998c8e3f6');
+
+INSERT INTO signatures (model_id, format_id, chunk_name, chunk_hex)
+VALUES ((SELECT model_id FROM models WHERE model_name='Gemini Imagen 3'),
+        (SELECT format_id FROM formats WHERE format_name='JPEG'),
+        'Gemini JPEG Signature 4', '080800080003012200021101031101');
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
