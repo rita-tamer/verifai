@@ -5,7 +5,6 @@ def get_exif_data(file_path):
     result = subprocess.run(['exiftool', file_path], capture_output=True, text=True)
     return result.stdout
 
-# Example usage
 image_path = "FruitsGemini.jpg"
 metadata = get_exif_data(image_path)
 print(metadata)
