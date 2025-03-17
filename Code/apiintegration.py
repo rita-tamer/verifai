@@ -16,7 +16,6 @@ params = {
     'api_secret': API_SECRET
 }
 
-# Correct file path for Windows
 file_path = r"E:\Uni\grad project\traiced\image_files\DallEOTGJ\FruitsDallE10.jpg"
 
 try:
