@@ -11,7 +11,7 @@ API_USER = os.getenv("API_USER")
 API_SECRET = os.getenv("API_SECRET")
 
 params = {
-    'models': 'genai',  # Ensure this is correctly formatted
+    'models': 'genai',  # model name used for analysis
     'api_user': API_USER,  
     'api_secret': API_SECRET
 }
