@@ -1,0 +1,677 @@
+File: ./image_files/DallEOTGP\FruitsDallE1.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 65536
+  Marker: b'IDAT' | Offset: 1704281 | Length: 211
+  Marker: b'IEND' | Offset: 1704504 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE10.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 65536
+  Marker: b'IDAT' | Offset: 1704281 | Length: 11704
+  Marker: b'IEND' | Offset: 1715997 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE2.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 65536
+  Marker: b'IDAT' | Offset: 1704281 | Length: 65536
+  Marker: b'IDAT' | Offset: 1769829 | Length: 65536
+  Marker: b'IDAT' | Offset: 1835377 | Length: 5573
+  Marker: b'IEND' | Offset: 1840962 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE3.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 65536
+  Marker: b'IDAT' | Offset: 1704281 | Length: 65536
+  Marker: b'IDAT' | Offset: 1769829 | Length: 27931
+  Marker: b'IEND' | Offset: 1797772 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE4.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 36324
+  Marker: b'IEND' | Offset: 1478425 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE5.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 11722
+  Marker: b'IEND' | Offset: 1650467 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE6.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 65536
+  Marker: b'IDAT' | Offset: 1704281 | Length: 65536
+  Marker: b'IDAT' | Offset: 1769829 | Length: 65536
+  Marker: b'IDAT' | Offset: 1835377 | Length: 65536
+  Marker: b'IDAT' | Offset: 1900925 | Length: 61118
+  Marker: b'IEND' | Offset: 1962055 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE7.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 54073
+  Marker: b'IEND' | Offset: 1692818 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE8.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 65536
+  Marker: b'IDAT' | Offset: 1507637 | Length: 65536
+  Marker: b'IDAT' | Offset: 1573185 | Length: 65536
+  Marker: b'IDAT' | Offset: 1638733 | Length: 47198
+  Marker: b'IEND' | Offset: 1685943 | Length: 0
+------------------------------------------------------------
+File: ./image_files/DallEOTGP\FruitsDallE9.png
+Chunks:
+  Marker: b'IHDR' | Offset: 8 | Length: 13
+  Marker: b'IDAT' | Offset: 33 | Length: 65536
+  Marker: b'IDAT' | Offset: 65581 | Length: 65536
+  Marker: b'IDAT' | Offset: 131129 | Length: 65536
+  Marker: b'IDAT' | Offset: 196677 | Length: 65536
+  Marker: b'IDAT' | Offset: 262225 | Length: 65536
+  Marker: b'IDAT' | Offset: 327773 | Length: 65536
+  Marker: b'IDAT' | Offset: 393321 | Length: 65536
+  Marker: b'IDAT' | Offset: 458869 | Length: 65536
+  Marker: b'IDAT' | Offset: 524417 | Length: 65536
+  Marker: b'IDAT' | Offset: 589965 | Length: 65536
+  Marker: b'IDAT' | Offset: 655513 | Length: 65536
+  Marker: b'IDAT' | Offset: 721061 | Length: 65536
+  Marker: b'IDAT' | Offset: 786609 | Length: 65536
+  Marker: b'IDAT' | Offset: 852157 | Length: 65536
+  Marker: b'IDAT' | Offset: 917705 | Length: 65536
+  Marker: b'IDAT' | Offset: 983253 | Length: 65536
+  Marker: b'IDAT' | Offset: 1048801 | Length: 65536
+  Marker: b'IDAT' | Offset: 1114349 | Length: 65536
+  Marker: b'IDAT' | Offset: 1179897 | Length: 65536
+  Marker: b'IDAT' | Offset: 1245445 | Length: 65536
+  Marker: b'IDAT' | Offset: 1310993 | Length: 65536
+  Marker: b'IDAT' | Offset: 1376541 | Length: 65536
+  Marker: b'IDAT' | Offset: 1442089 | Length: 44362
+  Marker: b'IEND' | Offset: 1486463 | Length: 0
+------------------------------------------------------------
+
+Common Chunks Across Files:
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE1.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE1.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE10.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE10.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE2.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE2.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE3.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE3.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE4.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE4.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE5.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE5.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE6.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE6.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE7.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE7.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE8.png and ./image_files/DallEOTGP\FruitsDallE9.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE8.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE1.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE10.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE2.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE3.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE4.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE5.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE6.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE7.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
+Common Chunks between ./image_files/DallEOTGP\FruitsDallE9.png and ./image_files/DallEOTGP\FruitsDallE8.png:
+  Marker: b'IHDR' | Offset in ./image_files/DallEOTGP\FruitsDallE9.png: 8 | Length: 13
+  Chunk Data (Hex): 00000400000004000802000000
+------------------------------------------------------------
