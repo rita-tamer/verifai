@@ -16,8 +16,7 @@ params = {
     'api_secret': API_SECRET
 }
 
-file_path = r"E:\Uni\grad project\traiced\image_files\DallEOTGJ\FruitsDallE10.jpg"
-
+file_path = r"E:\Uni\grad project\verifai\image_files\POC\Desk_Modified.png"
 try:
     with open(file_path, 'rb') as file:
         files = {'media': file}
