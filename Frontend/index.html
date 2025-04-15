@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VerifAI - AI Image Detection</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <img src="E:\Uni\grad project\verifai\Frontend\logo.png" alt="VerifAI Logo" class="logo" />
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#analyze">Analyze</a></li>
+      <li><a href="#how-it-works">How It Works</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>VerifAI: Where AI Meets Forensic Verification</h1>
+      <p>Forensic Tool for Verifying AI-Generated and Manipulated Images</p>
+      <div class="hero-buttons">
+        <a href="#about" class="btn">Learn More</a>
+        <a href="#analyze" class="btn btn-primary">Try VerifAI</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about" class="section">
+    <h2>About VerifAI</h2>
+    <p>PLACEHOLDER_PARAGRAPH_ABOUT_TOOL</p>
+    <p>PLACEHOLDER_PARAGRAPH_EXPLAIN_RESULTS</p>
+  </section>
+
+  <!-- Analyze Section -->
+  <section id="analyze" class="section analyze-section">
+    <h2>Analyze an Image</h2>
+    <form id="uploadForm">
+      <input type="file" id="imageInput" accept=".png,.jpg,.jpeg,.webp" />
+      <button type="submit" class="btn btn-primary">Analyze</button>
+    </form>
+    <div id="status" class="status hidden"></div>
+    <div id="resultCard" class="result hidden">
+      <h3 id="verdict"></h3>
+      <p id="reason"></p>
+    </div>
+    <div id="historySection" class="history hidden">
+      <h4>History</h4>
+      <ul id="historyList"></ul>
+    </div>
+  </section>
+
+  <!-- How It Works -->
+  <section id="how-it-works" class="section">
+    <h2>How It Works</h2>
+    <div class="steps">
+      <div class="step">
+        <img src="PATH_TO_ICON_1" alt="Step 1" />
+        <p>PLACEHOLDER_STEP_ONE_TEXT</p>
+      </div>
+      <div class="step">
+        <img src="PATH_TO_ICON_2" alt="Step 2" />
+        <p>PLACEHOLDER_STEP_TWO_TEXT</p>
+      </div>
+      <div class="step">
+        <img src="PATH_TO_ICON_3" alt="Step 3" />
+        <p>PLACEHOLDER_STEP_THREE_TEXT</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="section">
+    <h2>Contact</h2>
+    <form class="contact-form">
+      <input type="text" placeholder="Name" />
+      <input type="email" placeholder="Email" />
+      <input type="text" placeholder="LinkedIn Profile" />
+      <input type="text" placeholder="GitHub Link" />
+      <button type="submit" class="btn">Send</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 VerifAI. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
