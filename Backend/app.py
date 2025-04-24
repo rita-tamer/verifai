@@ -27,7 +27,7 @@ def analyze():
 
     file = request.files['image']
     if file.filename == '' or not allowed_file(file.filename):
-        return jsonify({"error": "Unsupported or missing file"}), 400
+        return jsonify({"Error": "Unsupported or missing file"}), 400
 
     filename = secure_filename(file.filename)
     path = os.path.join(app.config['UPLOAD_FOLDER'], filename)

@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+// @import "tailwindcss/base";
+// @import "tailwindcss/components";
+// @import "tailwindcss/utilities";
+body,
+html {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+  color: white;
+  
+}
+
+.App {
+  // padding-top: 64px; // for fixed AppBar
+}
+.icon-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+
+  img {
+    width: 60px;
+    transform: rotate(calc(360deg * var(--random)));
+    transition: transform 0.3s ease;
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
+%section {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem !important;
+  padding: 2rem;
+  box-sizing: border-box;
+  // scroll-margin-top: 64px;   // offset for AppBar
+  width: calc(100vw - 1rem);
+}
+
+// === UNIQUE BACKGROUNDS ===
+.about {
+  background: #504d98;
+  justify-content: center;
+  background-image: url('./assets/texture.png');
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+  direction: column;
+  @extend %section;
+}
+.try {
+  background: #31356e;
+
+  @extend %section;
+}
+.how {
+  background: #504d98;
+
+  @extend %section;
+}
+.tech {
+  background: #31356e;
+  gap: 0.5rem !important;
+
+  @extend %section;
+}
+.contact {
+  background: #504d98;
+
+  @extend %section;
+}
+
+.about-img {
+  width: 60%;
+  border-radius: 12px;
+  position: relative;
+  color: #31356e;
+}
+
+.text-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.upload-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.drop-box {
+  border: 2px dashed #888;
+  border-radius: 10px;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: border 0.3s ease;
+}
+
+.drop-box:hover {
+  border-color: #1976d2;
+}
+
+.preview {
+  margin-top: 1rem;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.verdict-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  text-align: center;
+}
+
+.how {
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 1rem;
+  }
+
+  .desc-img,
+  .img-desc {
+    padding: 1rem;
+  }
+}
+
+.tech {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  .tech-cloud {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+
+    .cloud-icons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    img {
+      width: 40px;
+      height: 40px;
+      transition: transform 0.2s;
+    }
+
+    img:hover {
+      transform: scale(1.1);
+    }
+  }
+}
+
+.contact {
+  padding: 2rem;
+
+  .MuiIconButton-root {
+    margin-right: 1rem;
+  }
+
+  .MuiTextField-root {
+    margin-bottom: 1rem;
+  }
+}
+
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 0.5rem 1rem;
+  z-index: 999;
+
+  display: flex;
+  gap: 1rem;
+
+  .MuiAvatar-root {
+    background-color: #1976d2;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+
+  .MuiAvatar-root:hover {
+    background-color: #125ca1;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section {
+    flex-direction: column;
+    height: auto;
+    padding-top: 4rem;
+  }
+
+  .bottom-nav {
+    bottom: 10px;
+  }
+}
+nav {
+  background: rgba(0, 0, 0, 0.3);
+  width: max-content;
+  display: block;
+  padding: 0.7rem 1.7rem;
+  z-index: 2;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 2rem;
+  display: flex;
+  gap: 0.8rem;
+  border-radius: 3rem;
+  backdrop-filter: blur(15px);
+}
+
+nav a {
+  background: transparent;
+  padding: 0.9rem;
+  border-radius: 50%;
+  display: flex;
+  color: var(--color-light);
+  font-size: 1.1rem;
+}
+
+nav a:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+nav a.active {
+  background: var(--color-bg);
+  color: var(--color-white);
+}

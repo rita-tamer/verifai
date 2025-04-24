@@ -74,7 +74,8 @@ const icons = [
   "assets/js.png",
   "assets/python.png",
   "assets/sightengine.png",
-  "assets/sqlite.png"
+  "assets/sqlite.png",
+  "assets/magicui.png"
 ];
 
 const iconSize = 65;
@@ -180,3 +181,19 @@ function animate() {
 }
 
 animate();
+
+function scrollToSection(id) {
+  const section = document.getElementById(id);
+  if (section) section.scrollIntoView({ behavior: "smooth" });
+}
+
+function copyEmail(email) {
+  navigator.clipboard.writeText(email).then(() => {
+    alert("Email copied to clipboard!");
+  });
+}
+
+function toggleTheme() {
+  document.body.classList.toggle("dark-mode");
+
+}
