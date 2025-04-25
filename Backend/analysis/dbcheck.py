@@ -12,7 +12,8 @@ def get_all_chunk_signatures():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     cursor.execute("""
-        SELECT m.model_name, f.format_name, s.chunk_name, s.chunk_hex
+        SELECT s.signature_id, s.model_id, s.format_id, s.chunk_name, s.chunk_hex,
+               m.model_name, f.format_name
         FROM signatures s
         JOIN models m ON s.model_id = m.model_id
         JOIN formats f ON s.format_id = f.format_id
@@ -21,11 +22,14 @@ def get_all_chunk_signatures():
     conn.close()
 
     signatures = []
-    for model_name, format_name, chunk_name, chunk_hex in rows:
+    for signature_id, model_id, format_id, chunk_name, chunk_hex, model_name, format_name in rows:
         try:
             chunk_bytes = binascii.unhexlify(chunk_hex.strip())
             signatures.append({
+                'signature_id': signature_id,
+                'model_id': model_id,
                 'model_name': model_name,
+                'format_id': format_id,
                 'format_name': format_name,
                 'chunk_name': chunk_name,
                 'chunk_bytes': chunk_bytes
@@ -162,18 +166,25 @@ def analyze_byte_signatures(image_path):
     ext = image_path.lower()
     signatures = get_all_chunk_signatures()
 
-    chunk_match = False
+    matches = []
     c2pa_found = False
     manipulated = False
 
     with open(image_path, "rb") as f:
         data = f.read()
 
-    # Match against DB-stored chunks
+    # Match against DB-stored chunks and collect all matches
     for sig in signatures:
-        if sig["format_name"] in ext and sig["chunk_bytes"] in data:
-            chunk_match = True
-            break
+        # Check both format_id and format_name for robustness
+        format_matches = (sig["format_id"] == 4 and sig["format_name"].lower() == "webp")
+        if format_matches and sig["chunk_bytes"] in data:
+            matches.append({
+                "model_id": sig["model_id"],
+                "model_name": sig["model_name"]
+            })
+
+    # Set chunk_match to True only if more than 3 matches are found
+    chunk_match = len(matches) > 3
 
     # Only applies to WebP
     if ext.endswith(".webp"):
@@ -186,9 +197,11 @@ def analyze_byte_signatures(image_path):
                 if not c["ascii"].strip() or "����" in c["ascii"]:
                     manipulated = True
                     break
-
+                
     return {
         "chunk_match": chunk_match,
+        "matches_count": len(matches),
+        "matches": matches,
         "c2pa_found": c2pa_found,
         "manipulated": manipulated
     }
