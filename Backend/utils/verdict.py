@@ -7,11 +7,19 @@ def classify_result(ai_score, exif_tags, byte_result):
 
     # CASE 1: AI-generated
     if ai and exif and (chunk or c2pa):
-        return ("Image is AI-Generated", "High AI score, Metadata present, and byte/ watermark match detected.")
-
+         if manipulated:
+            return ("Image is AI-Generated with signs of tampering", 
+                   "High AI score, metadata present, but C2PA watermark shows manipulation.")
+         return ("Image is AI-Generated", 
+               "High AI score, metadata present, and byte/watermark match detected.")
+         
     # CASE 2: AI-generated, watermark manipulated
     elif ai and not exif and (chunk or c2pa):
-        return ("Image is AI-Generated but the watermark has been manipulated", "High AI score, no metadata, but watermark/ chunk signature detected.")
+         if manipulated:
+            return ("Image is AI-Generated with confirmed watermark tampering",
+                   "High AI score, no metadata, corrupted C2PA watermark detected.")
+         return ("Image is AI-Generated but the watermark has been manipulated",
+               "High AI score, no metadata, but watermark/chunk signature detected.")
 
     # CASE 3: Real image, modified by AI
     elif not ai and exif and (chunk or c2pa):
