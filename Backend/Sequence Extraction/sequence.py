@@ -41,7 +41,7 @@ def find_common_sequences_fast(file_data_dict):
     sequence_to_files = defaultdict(set)
     all_files = list(file_data_dict.keys())
 
-    for fname in tqdm(all_files, desc="🔍 Extracting sequences"):
+    for fname in tqdm(all_files, desc=" Extracting sequences"):
         data = file_data_dict[fname]
         sequences = extract_all_sequences(data, MIN_SEQUENCE_LENGTH)
         for seq in sequences:
