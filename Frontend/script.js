@@ -64,7 +64,6 @@ function updateHistoryUI() {
 const canvas = document.getElementById('iconCloudCanvas');
 const ctx = canvas.getContext('2d');
 
-// Correct relative paths to icons inside Frontend/assets
 const icons = [
   "assets/css.png",
   "assets/exiftool.png",

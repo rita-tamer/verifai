@@ -42,7 +42,6 @@ const steps = [
 const handleCopyEmail = () => {
   navigator.clipboard.writeText('ritatamerab@gmail.com')
     .then(() => {
-      // Optional: Add some visual feedback that it worked
       console.log('Email copied to clipboard');
     })
     .catch(err => {
@@ -70,7 +69,6 @@ const cloudProps = {
       width: "70%",
     }
   },
-  // https://www.goat1000.com/tagcanvas-options.php
   options: {
     clickToFront: 500,
     depth: 1,
@@ -158,13 +156,12 @@ function App() {
     const handleWheel = (e) => {
       const now = Date.now();
 
-      // Reset accumulated delta if user pauses
       if (now - lastScrollTime > 600) accumulatedDelta = 0;
 
       accumulatedDelta += e.deltaY;
       lastScrollTime = now;
 
-      const threshold = 300; // more scroll required
+      const threshold = 300; 
 
       if (accumulatedDelta > threshold && currentIndex < sectionRefs.length - 1) {
         setCurrentIndex((prev) => {

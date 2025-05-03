@@ -4,7 +4,7 @@ import re
 DB_PATH = "model_signatures.db"
 TEXT_FILE = "common_sequences_outputPNG.txt"
 
-# ✅ Define the model and format this file represents
+# Define the model and format this file represents
 MODEL_NAME = "OpenAI DallE"
 FORMAT_NAME = "png"
 

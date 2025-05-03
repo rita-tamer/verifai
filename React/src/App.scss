@@ -39,11 +39,9 @@ html {
   gap: 2rem !important;
   padding: 2rem;
   box-sizing: border-box;
-  // scroll-margin-top: 64px;   // offset for AppBar
   width: calc(100vw - 1rem);
 }
 
-// === UNIQUE BACKGROUNDS ===
 .about {
   background: #504d98;
   justify-content: center;

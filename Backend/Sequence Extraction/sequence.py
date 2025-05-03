@@ -6,7 +6,7 @@ from collections import defaultdict
 
 FOLDER = "./image_files/POC"
 OUTPUT_FILE = "common_sequences_outputPOC.txt"
-MIN_SEQUENCE_LENGTH = 12  # in bytes
+MIN_SEQUENCE_LENGTH = 12  
 MAX_C2PA_SEARCH_BYTES = 256
 
 def read_binary(path):
@@ -62,7 +62,7 @@ def main():
 
     print(f"[+] Scanning {len(files)} image files...\n")
 
-    for filename in tqdm(files, desc="📥 Reading files"):
+    for filename in tqdm(files, desc="Reading files"):
         path = os.path.join(FOLDER, filename)
         ext = filename.lower()
         raw_data = read_binary(path)
@@ -86,8 +86,8 @@ def main():
             out.write(f"Matched in {len(files)} files: {', '.join(files)}\n")
             out.write(f"  Hex: {hex_str[:96]}...\n\n")
 
-        # NEW: Check for sequences present in ALL files
-        out.write("\n[✔] Sequences Found in ALL Files:\n")
+        # Check for sequences present in ALL files
+        out.write("\n[Done] Sequences Found in ALL Files:\n")
         total_file_count = len(hex_data_dict)
         full_matches = [
             (seq, files)
@@ -102,7 +102,7 @@ def main():
         else:
             out.write("  None found.\n")
 
-    print(f"\n✅ Done. Results saved to: {OUTPUT_FILE}")
+    print(f"\n Done. Results saved to: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
